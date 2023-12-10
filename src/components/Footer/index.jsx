@@ -50,8 +50,8 @@ const dividerVariants = {
 const Footer = () => {
   const { pria, wanita } = useDB((db) => db.wedding.mempelai);
   const doaRestu =
-    "Doa Restu Anda merupakan karunia yang sangat berarti bagi kami.";
-  const berbahagia = "Kami Yang Berbahagia";
+  "The blessing of your approval is a meaningful gift to us.";
+  const berbahagia = "We are happy together";
 
   return (
     <Box
@@ -108,7 +108,7 @@ const Footer = () => {
           {/* Mempelai pria */}
           <Grid item md={6} xs={12}>
             <KeluargaBesar
-              title="Mempelai Pria"
+              title="Pradnya Rangdal"
               orangTuaPria={pria.orangTua.pria}
               orangTuaWanita={pria.orangTua.wanita}
             />
@@ -117,7 +117,7 @@ const Footer = () => {
           {/* Mempelai wanita */}
           <Grid item md={6} xs={12} sx={{ mt: { md: 0, xs: 5 } }}>
             <KeluargaBesar
-              title="Mempelai Wanita"
+              title="Prasad Ovarikar"
               orangTuaPria={wanita.orangTua.pria}
               orangTuaWanita={wanita.orangTua.wanita}
             />

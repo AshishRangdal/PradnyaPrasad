@@ -1,51 +1,54 @@
 {
   "application": {
-    "name": "The wedding of Saiful & Cindy",
-    "description": "The wedding of Saiful & Cindy. Selasa, 16 Mei 2023",
+    "name": "The wedding of Pradnya & Prasad",
+    "description": "The wedding of Pradnya & Prasad. 05 Jan 2024",
     "version": "1.0.0"
   },
   "wedding": {
     "akad": {
-      "tanggal": "Senin, 15 Mei 2023",
-      "jam": "08.00 WIB - Selesai",
-      "lokasi": "Kediaman mempelai wanita",
-      "alamat": "Jl. H. Nurleman RT. 002 RW. 003, Kel. Benda Baru, Kec. Pamulang, Tangerang Selatan",
+      "tanggal": "04 Jan 2024",
+      "jam": "07:00 pm",
+      "lokasi": "Nagnath Sanskritik Bhavan",
+      "alamat": "Sunil Nagar, MIDC, Solapur",
       "gmaps": {
-        "link": "https://maps.app.goo.gl/1kM9KC9m7d477zxD9",
-        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d991.3727501079445!2d106.71945762812459!3d-6.330370382891928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwMTknNDkuOSJTIDEwNsKwNDMnMTEuOSJF!5e0!3m2!1sid!2sid!4v1681882927364!5m2!1sid!2sid"
+        "link": "https://maps.app.goo.gl/2YxspgtAy8dBH6TW9",
+        "iframeSrc":
+        
+        "https://www.google.com/maps/place/Nagnath+Sanskritik+Bhavan+-+Function+hall/@17.6526607,75.9415669,14z/data=!4m14!1m7!3m6!1s0x3bc5da33bff96b77:0x16a9e8a396128042!2sLokmangal+Jeevak+Hospital!8m2!3d17.6495081!4d75.941987!16s%2Fg%2F11c52hm4t8!3m5!1s0x3bc5dbf6a08d74c5:0xad85dd962383ed1b!8m2!3d17.656858!4d75.9416164!16s%2Fg%2F11h5m5wz3j?entry=ttu"
       }
     },
     "resepsi": {
-      "tanggal": "Selasa, 16 Mei 2023",
-      "jam": "09.00 WIB - Selesai",
-      "lokasi": "Kediaman mempelai wanita",
-      "alamat": "Jl. H. Nurleman RT. 002 RW. 003, Kel. Benda Baru, Kec. Pamulang, Tangerang Selatan",
+      "tanggal": "05 Jan 2024",
+      "jam": "12:29 pm",
+      "lokasi": "Nagnath Sanskritik Bhavan",
+      "alamat": "Sunil Nagar, MIDC, Solapur",
       "gmaps": {
-        "link": "https://maps.app.goo.gl/1kM9KC9m7d477zxD9",
-        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d991.3727501079445!2d106.71945762812459!3d-6.330370382891928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwMTknNDkuOSJTIDEwNsKwNDMnMTEuOSJF!5e0!3m2!1sid!2sid!4v1681882927364!5m2!1sid!2sid"
+        "link": "https://maps.app.goo.gl/2YxspgtAy8dBH6TW9",
+        "iframeSrc": 
+        "https://www.google.com/maps/place/Nagnath+Sanskritik+Bhavan+-+Function+hall/@17.6526607,75.9415669,14z/data=!4m14!1m7!3m6!1s0x3bc5da33bff96b77:0x16a9e8a396128042!2sLokmangal+Jeevak+Hospital!8m2!3d17.6495081!4d75.941987!16s%2Fg%2F11c52hm4t8!3m5!1s0x3bc5dbf6a08d74c5:0xad85dd962383ed1b!8m2!3d17.656858!4d75.9416164!16s%2Fg%2F11h5m5wz3j?entry=ttu"
       }
     },
     "mempelai": {
       "pria": {
-        "namaDepan": "Saiful",
-        "namaBelakang": "Akbar",
+        "namaDepan": "Pradnya",
+        "namaBelakang": "Rangdal",
         "namaPanggilan": "Ipul",
         "orangTua": {
-          "keterangan": "Putra ketiga dari keluarga",
-          "pria": "H. Murdih bin Mahir",
-          "wanita": "Mutiyah"
+          "keterangan": "(d/o Shri Shriniwas Rangdal & Anuradha Rangdal)",
+          "pria": "BE mechanical engineer, deputy manager",
+          "wanita": ""
         },
         "foto": "/assets/images/mempelai/pria.webp",
         "bg": "rgb(229, 229, 203)"
       },
       "wanita": {
-        "namaDepan": "Cindy",
-        "namaBelakang": "Nadya",
-        "namaPanggilan": "Cindy",
+        "namaDepan": "Prasad",
+        "namaBelakang": "Ovarikar",
+        "namaPanggilan": "Prasad",
         "orangTua": {
-          "keterangan": "Putri pertama dari keluarga",
-          "pria": "Cecep Supriyadi",
-          "wanita": "Yanih Nurliani"
+          "keterangan": "(s/o Shri Chandrakant Ovarikar & Anagha Ovarikar)",
+          "pria": "BE electrical engineer, project manager",
+          "wanita": ""
         },
         "foto": "/assets/images/mempelai/wanita.webp",
         "bg": "rgb(213, 206, 163)"
@@ -56,7 +59,7 @@
     "banner": "/assets/images/hero/banner.webp"
   },
   "galeri": [
-    "/assets/images/galeri/galeri-01.webp",
+    "/assets/images/galeri/pradnyaPrasad.jpg",
     "/assets/images/galeri/galeri-02.webp",
     "/assets/images/galeri/galeri-03.webp",
     "/assets/images/galeri/galeri-04.webp",

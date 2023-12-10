@@ -15,21 +15,22 @@ const Lokasi = () => {
       }}
     >
       <Container>
-        <Box
-          component="iframe"
-          title="Google Maps"
-          owfullscreen=""
-          loading="lazy"
-          rrerpolicy="no-referrer-when-downgrade"
-          src={gmaps.iframeSrc}
-          sx={{
-            width: "100%",
-            height: 450,
-            border: 0,
-            borderColor: "divider",
-            borderRadius: 1,
-          }}
-        />
+      <Box
+        component="iframe"
+        title="Google Maps"
+        allowFullScreen
+        loading="lazy"
+        frameBorder="0"
+        referrerPolicy="no-referrer-when-downgrade"
+        src={gmaps.iframeSrc}
+        sx={{
+          width: '100%',
+          height: 450,
+          border: 0,
+          borderColor: 'divider',
+          borderRadius: 1,
+        }}
+      />
       </Container>
     </Box>
   );

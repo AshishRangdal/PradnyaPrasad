@@ -6,12 +6,12 @@
 	</picture>
 </div>
 
-# Saiful & Cindy's wedding
+# Pradnya & Prasad's wedding
 
 ## Instalation
 
 ```bash
-git clone https://github.com/saiful-akbar/my-wedding.git
+git clone https://github.com/Pradnya-Rangdal/my-wedding.git
 
 ```
 
@@ -40,7 +40,7 @@ ________________
 Dengan mengharap Ridho Allah SWT dan mengikuti Sunnah Rasul SAW.
 Kami bermaksud menyelenggarakan acara Akad dan Resepsi Pernikahan.
 
-*_Saiful Akbar & Cindy Nadya_*
+*_Pradnya Rangdal & Prasad Ovarikar_*
 
 *Akad Nikah:*
 🗓️ Senin, 15 Mei 2023
@@ -48,12 +48,12 @@ Kami bermaksud menyelenggarakan acara Akad dan Resepsi Pernikahan.
 🏡 Alamat : Jl. H. Nurleman, RT 002 RW 003, Kel. Benda Baru, Kec. Pamulang, Tangerang Selatan
 
 *Resepsi:*
-🗓️ Selasa, 16 Mei 2023
+🗓️ 05 Jan 2024
 ⏰ 10.00 WIB s/d Selesai
 🏡 Alamat :  Jl. H. Nurleman, RT 002 RW 003, Kel. Benda Baru, Kec. Pamulang, Tangerang Selatan
 
 Berikut link untuk info lengkap dari acara kami untuk mengantarkan Bapak/Ibu/Saudara/i ketujuan:
-*https://saifulcindy.vercel.app/*
+*https://PradnyaPrasad.vercel.app/*
 
 Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan do'a restu di acara pernikahan kami.
 
@@ -61,7 +61,7 @@ Mohon maaf perihal undangan hanya dibagikan melalui pesan ini.
 
 *Wassalamualaikum Warahmatullahi Wabarakatuh*
 
-*Saiful* 💕 *Cindy*
+*Pradnya* 💕 *Prasad*
 ```
 
 ## Instagram Format undangan digital
@@ -79,7 +79,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh
 Dengan mengharap Ridho Allah SWT dan mengikuti Sunnah Rasul SAW.
 Kami bermaksud menyelenggarakan acara Akad dan Resepsi Pernikahan.
 
-Saiful Akbar & Cindy Nadya
+Pradnya Rangdal & Prasad Ovarikar
 
 Akad Nikah:
 🗓️ Senin, 15 Mei 2023
@@ -87,12 +87,12 @@ Akad Nikah:
 🏡 Alamat : Jl. H. Nurleman, RT 002 RW 003, Kel. Benda Baru, Kec. Pamulang, Tangerang Selatan
 
 Resepsi:
-🗓️ Selasa, 16 Mei 2023
+🗓️ 05 Jan 2024
 ⏰ 10.00 WIB s/d Selesai
 🏡 Alamat :  Jl. H. Nurleman, RT 002 RW 003, Kel. Benda Baru, Kec. Pamulang, Tangerang Selatan
 
 Berikut link untuk info lengkap dari acara kami untuk mengantarkan Bapak/Ibu/Saudara/i ketujuan:
-https://saifulcindy.vercel.app/
+https://PradnyaPrasad.vercel.app/
 
 Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan do'a restu di acara pernikahan kami.
 
@@ -100,5 +100,5 @@ Mohon maaf perihal undangan hanya dibagikan melalui pesan ini.
 
 Wassalamualaikum Warahmatullahi Wabarakatuh
 
-Saiful 💕 Cindy
+Pradnya 💕 Prasad
 ```

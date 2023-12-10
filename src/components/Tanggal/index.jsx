@@ -31,7 +31,7 @@ const textVariants = {
  * @returns Reacr.ReactElement
  */
 const Tanggal = () => {
-  const textHeader = "Rangkaian Acara Akan Diselenggarakan";
+  const textHeader = "In the Tapestry of Love: Our Joyful Wedding Event Will Soon Illuminate the Skies.";
   const { akad, resepsi } = useDB((db) => db.wedding);
 
   return (
@@ -68,7 +68,7 @@ const Tanggal = () => {
 
         <Grid item md={6} xs={12}>
           <CardTanggal
-            title="Akad Nikah"
+            title="Seemant Poojan"
             tanggal={akad.tanggal}
             jam={akad.jam}
             lokasi={akad.lokasi}
@@ -79,7 +79,7 @@ const Tanggal = () => {
 
         <Grid item md={6} xs={12}>
           <CardTanggal
-            title="Resepsi Nikah"
+            title="Wedding On"
             tanggal={resepsi.tanggal}
             jam={resepsi.jam}
             lokasi={resepsi.lokasi}

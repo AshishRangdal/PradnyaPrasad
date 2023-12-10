@@ -25,10 +25,9 @@ const textVariants = {
  * @returns React.ReactElement
  */
 const Words = () => {
-  const salam = "Assalamu'alaikum Warahmatullahi Wabarakatuh.";
+  const salam = "🌸 Welcome to Our Celebration of Love! 🌸.";
   const words =
-    "Maha suci Allah yang telah menciptakan mahluk-Nya berpasang-pasangan. Ya Allah, perkenankanlah kami merangkaikan kasih sayang yang Kau ciptakan diantara kami untuk mengikuti Sunnah Rasul-Mu dalam rangka membentuk keluarga yang sakinah, mawaddah, warahmah.";
-
+"With immense joy and hearts full of love, we welcome you to our wedding celebration. It is an honor to have you here, sharing in the joy of this momentous occasion as we embark on a journey of love and togetherness."
   return (
     <Container
       component={motion.div}
