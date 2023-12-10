@@ -12,10 +12,10 @@
       "alamat": "Sunil Nagar, MIDC, Solapur",
       "gmaps": {
         "link": "https://maps.app.goo.gl/2YxspgtAy8dBH6TW9",
-        "iframeSrc":
-        
-        "https://www.google.com/maps/place/Nagnath+Sanskritik+Bhavan+-+Function+hall/@17.6526607,75.9415669,14z/data=!4m14!1m7!3m6!1s0x3bc5da33bff96b77:0x16a9e8a396128042!2sLokmangal+Jeevak+Hospital!8m2!3d17.6495081!4d75.941987!16s%2Fg%2F11c52hm4t8!3m5!1s0x3bc5dbf6a08d74c5:0xad85dd962383ed1b!8m2!3d17.656858!4d75.9416164!16s%2Fg%2F11h5m5wz3j?entry=ttu"
+        "iframeSrc": 
+        "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7603.797295185154!2d75.9412796!3d17.6549587!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc5dbf6a08d74c5%3A0xad85dd962383ed1b!2sNagnath%20Sanskritik%20Bhavan%20-%20Function%20hall!5e0!3m2!1sen!2sin!4v1702223086534!5m2!1sen!2sin"
       }
+        
     },
     "resepsi": {
       "tanggal": "05 Jan 2024",
@@ -24,8 +24,8 @@
       "alamat": "Sunil Nagar, MIDC, Solapur",
       "gmaps": {
         "link": "https://maps.app.goo.gl/2YxspgtAy8dBH6TW9",
-        "iframeSrc": 
-        "https://www.google.com/maps/place/Nagnath+Sanskritik+Bhavan+-+Function+hall/@17.6526607,75.9415669,14z/data=!4m14!1m7!3m6!1s0x3bc5da33bff96b77:0x16a9e8a396128042!2sLokmangal+Jeevak+Hospital!8m2!3d17.6495081!4d75.941987!16s%2Fg%2F11c52hm4t8!3m5!1s0x3bc5dbf6a08d74c5:0xad85dd962383ed1b!8m2!3d17.656858!4d75.9416164!16s%2Fg%2F11h5m5wz3j?entry=ttu"
+        "iframeSrc":
+        "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7603.797295185154!2d75.9412796!3d17.6549587!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc5dbf6a08d74c5%3A0xad85dd962383ed1b!2sNagnath%20Sanskritik%20Bhavan%20-%20Function%20hall!5e0!3m2!1sen!2sin!4v1702223086534!5m2!1sen!2sin"
       }
     },
     "mempelai": {
@@ -34,11 +34,11 @@
         "namaBelakang": "Rangdal",
         "namaPanggilan": "Ipul",
         "orangTua": {
-          "keterangan": "(d/o Shri Shriniwas Rangdal & Anuradha Rangdal)",
+          "keterangan": "(d/o Shri Shriniwas Rangdal & Smt. Anuradha Rangdal)",
           "pria": "BE mechanical engineer, deputy manager",
           "wanita": ""
         },
-        "foto": "/assets/images/mempelai/pria.webp",
+        "foto": "/assets/images/galeri/pradnya.jpg",
         "bg": "rgb(229, 229, 203)"
       },
       "wanita": {
@@ -46,26 +46,27 @@
         "namaBelakang": "Ovarikar",
         "namaPanggilan": "Prasad",
         "orangTua": {
-          "keterangan": "(s/o Shri Chandrakant Ovarikar & Anagha Ovarikar)",
+          "keterangan": "(s/o Shri Chandrakant Ovarikar & Smt. Anagha Ovarikar)",
           "pria": "BE electrical engineer, project manager",
           "wanita": ""
         },
-        "foto": "/assets/images/mempelai/wanita.webp",
+        "foto": "/assets/images/galeri/prasad.jpg",
         "bg": "rgb(213, 206, 163)"
       }
     }
   },
   "hero": {
-    "banner": "/assets/images/hero/banner.webp"
+    "banner": "/assets/images/galeri/pradnyaPrasad.jpg"
   },
   "galeri": [
     "/assets/images/galeri/pradnyaPrasad.jpg",
-    "/assets/images/galeri/galeri-02.webp",
-    "/assets/images/galeri/galeri-03.webp",
-    "/assets/images/galeri/galeri-04.webp",
-    "/assets/images/galeri/galeri-05.webp",
-    "/assets/images/galeri/galeri-06.webp",
-    "/assets/images/galeri/galeri-07.webp",
-    "/assets/images/galeri/galeri-08.webp"
+    "/assets/images/galeri/gallery1.jpg",
+    "/assets/images/galeri/gallery2.jpg",
+    "/assets/images/galeri/gallery3.jpg",
+    "/assets/images/galeri/gallery4.jpg",
+    "/assets/images/galeri/gallery5.jpg",
+    "/assets/images/galeri/gallery6.jpg",
+    "/assets/images/galeri/gallery7.jpg",
+    "/assets/images/galeri/gallery8.jpg"
   ]
 }
