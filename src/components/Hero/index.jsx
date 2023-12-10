@@ -99,7 +99,7 @@ const Hero = () => {
             objectPosition: "bottom center",
             width: "100%",
             height: "auto",
-            marginTop: "-35vh"
+            marginTop: "-15vh"
           }}
         />
 
