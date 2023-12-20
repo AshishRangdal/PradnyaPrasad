@@ -38,7 +38,7 @@
           "pria": "",
           "wanita": ""
         },
-        "foto": "/assets/images/galeri/DSC_2804-01.jpeg",
+        "foto": "/assets/images/galeri/pradnya.jpeg",
         "bg": "rgb(229, 229, 203)"
       },
       "wanita": {
@@ -50,13 +50,13 @@
           "pria": "",
           "wanita": ""
         },
-        "foto": "/assets/images/galeri/DSC_2797-01.jpeg",
+        "foto": "/assets/images/galeri/prasad.jpeg",
         "bg": "rgb(213, 206, 163)"
       }
     }
   },
   "hero": {
-    "banner": "/assets/images/galeri/DSC_2815-01.jpeg"
+    "banner": "/assets/images/galeri/banner.jpeg"
   },
   "galeri": [
     "/assets/images/galeri/pp-1.jpeg",
