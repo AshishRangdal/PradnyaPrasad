@@ -35,10 +35,10 @@
         "namaPanggilan": "Ipul",
         "orangTua": {
           "keterangan": "(d/o Shri Shriniwas Rangdal & Smt. Anuradha Rangdal)",
-          "pria": "BE mechanical engineer, deputy manager",
+          "pria": "",
           "wanita": ""
         },
-        "foto": "/assets/images/galeri/pradnya.jpg",
+        "foto": "/assets/images/galeri/DSC_2804-01.jpeg",
         "bg": "rgb(229, 229, 203)"
       },
       "wanita": {
@@ -47,10 +47,10 @@
         "namaPanggilan": "Prasad",
         "orangTua": {
           "keterangan": "(s/o Shri Chandrakant Ovarikar & Smt. Anagha Ovarikar)",
-          "pria": "BE electrical engineer, project manager",
+          "pria": "",
           "wanita": ""
         },
-        "foto": "/assets/images/galeri/prasad.jpg",
+        "foto": "/assets/images/galeri/DSC_2797-01.jpeg",
         "bg": "rgb(213, 206, 163)"
       }
     }
@@ -59,14 +59,18 @@
     "banner": "/assets/images/galeri/DSC_2815-01.jpeg"
   },
   "galeri": [
-    "/assets/images/galeri/pradnyaPrasad.jpg",
-    "/assets/images/galeri/gallery1.jpg",
-    "/assets/images/galeri/gallery2.jpg",
-    "/assets/images/galeri/gallery3.jpg",
-    "/assets/images/galeri/gallery4.jpg",
-    "/assets/images/galeri/gallery5.jpg",
-    "/assets/images/galeri/gallery6.jpg",
-    "/assets/images/galeri/gallery7.jpg",
-    "/assets/images/galeri/gallery8.jpg"
+    "/assets/images/galeri/DSC_2748-01.jpeg",
+    "/assets/images/galeri/DSC_2755-01.jpeg",
+    "/assets/images/galeri/DSC_2761-01.jpeg",
+    "/assets/images/galeri/DSC_2774-01.jpeg",
+    "/assets/images/galeri/DSC_2782-01.jpeg",
+    "/assets/images/galeri/DSC_2812-01.jpeg",
+    "/assets/images/galeri/DSC_2842-01.jpeg",
+    "/assets/images/galeri/DSC_2865-01.jpeg",
+    "/assets/images/galeri/DSC_2891-01.jpeg",
+    "/assets/images/galeri/DSC_2975-01-01.jpeg",
+    "/assets/images/galeri/DSC_2942-01.jpeg",
+    "/assets/images/galeri/DSC_2919-01.jpeg"
+  
   ]
 }

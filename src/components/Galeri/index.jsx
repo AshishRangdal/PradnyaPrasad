@@ -24,13 +24,14 @@ const Galeri = () => {
         },
       }}
     >
-      <Box id="boxImage">
-        {galeri.map((src, key) => (
-          <Box key={key} component="span" style={{ "--i": key + 1 }}>
-            <Box component="img" src={src} alt={`Galery ${key + 1}`} />
-          </Box>
-        ))}
-      </Box>
+    <Box id="boxImage">
+  {galeri.map((src, key) => (
+    <Box key={key} component="span" style={{ "--i": key + 1 }}>
+      <Box component="img" src={src} alt={`Gallery ${key + 1}`} loading="lazy" />
+    </Box>
+  ))}
+</Box>
+
     </Box>
   );
 };
